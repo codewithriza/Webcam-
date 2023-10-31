@@ -76,8 +76,8 @@ def main():
 
                  """)
     elif choice == "Webcam Face Detection":
-        st.header("Webcam Live Feed")
-        st.write("Click on start to use webcam and detect your face emotion , It's loading it a while, hang tight!")
+        st.header("Webcam Live Feed click on start button below  [If it is isnt loading please use another browser ]")
+        st.write("Click on start to use webcam and detect your face emotion , It's loading it will take a while, hang tight!")
         webrtc_streamer(key="example", mode=WebRtcMode.SENDRECV, rtc_configuration=RTC_CONFIGURATION,
                         video_processor_factory=Faceemotion)
 
