@@ -86,7 +86,13 @@ If you are using a laptop or PC, you can find the menu bar on the left side of t
 
 Ensure that you have granted all the necessary permissions, such as access to your video and microphone. These permissions are crucial for the webcam face detection feature to function properly.
 
-If you encounter any difficulties, please don't hesitate to reach out for further assistance. We're here to help!"
+If you encounter any difficulties, please don't hesitate to reach out for further assistance. We're here to help!
+
+
+If you need further assistance or encounter any issues, please feel free to contact us:
+
+Phone Number: +91 9895172771
+Email: codewithriza@gmail.com
                  """)
     elif choice == "Webcam Face Detection":
         st.header("Webcam Live Feed click on start button below ")
