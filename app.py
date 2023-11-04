@@ -75,8 +75,19 @@ def main():
 
                  2. Real time face emotion recognization.
 
-                 Please click on menubar in top left side on your phone an arrow click on that and click on webcam face detection now if u are using wifi and if it doesnt work try using mobile data or if u are using laptop or pc please try to use personal hotspot if it still doesnt work try to change ur web browser and try again and make sure that u have allowed all the permissions  such as video,microphone and other details  
+                
 
+
+
+Please follow these steps to enable Webcam Face Detection on our website:
+
+If you are using a smartphone, locate the menu bar on the top-left side of your screen. Click on the arrow icon and select 'Webcam Face Detection.' If you encounter issues while using Wi-Fi, consider switching to mobile data.
+
+If you are using a laptop or PC, you can find the menu bar on the left side of the screen. Click on 'Select Activity,' and then choose 'Webcam Face Detection.' If the feature doesn't work, try using your personal hotspot or switch to a different web browser.
+
+Ensure that you have granted all the necessary permissions, such as access to your video and microphone. These permissions are crucial for the webcam face detection feature to function properly.
+
+If you encounter any difficulties, please don't hesitate to reach out for further assistance. We're here to help!"
                  """)
     elif choice == "Webcam Face Detection":
         st.header("Webcam Live Feed click on start button below ")
