@@ -68,11 +68,14 @@ def main():
                                             </br>"""
         st.markdown(html_temp_home1, unsafe_allow_html=True)
         st.write("""
+                
                  The application has two functionalities.
 
                  1. Real time face detection using web cam feed.
 
                  2. Real time face emotion recognization.
+
+                 Please click on menubar in top left side on your phone an arrow click on that and click on webcam face detection now if u are using wifi and if it doesnt work try using mobile data or if u are using laptop or pc please try to use personal hotspot if it still doesnt work try to change ur web browser and try again and make sure that u have allowed all the permissions  such as video,microphone and other details  
 
                  """)
     elif choice == "Webcam Face Detection":
