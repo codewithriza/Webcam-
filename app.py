@@ -71,9 +71,8 @@ def main():
                 
                  The application has two functionalities.
 
-                 1. Real time face detection using web cam feed.
-
-                 2. Real time face emotion recognization.
+ 1. Real time face detection using web cam feed.
+2. Real time face emotion recognization.
 
                 
 
