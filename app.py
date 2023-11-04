@@ -92,7 +92,13 @@ If you encounter any difficulties, please don't hesitate to reach out for furthe
 If you need further assistance or encounter any issues, please feel free to contact us:
 
 Phone Number: +91 9895172771
+
+
+
+
 Email: codewithriza@gmail.com
+
+
                  """)
     elif choice == "Webcam Face Detection":
         st.header("Webcam Live Feed click on start button below ")
