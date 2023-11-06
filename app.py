@@ -111,7 +111,7 @@ Email: codewithriza@gmail.com
         st.subheader("About this app")
         html_temp_about1= """<div style="background-color:#6D7B8D;padding:10px">
                                     <h4 style="color:white;text-align:center;">
-                                    Real time face emotion detection application using OpenCV, Custom Trained CNN model and Streamlit.</h4>
+                                    Face emotion detection application</h4>
                                     </div>
                                     </br>"""
         st.markdown(html_temp_about1, unsafe_allow_html=True)
