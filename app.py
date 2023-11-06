@@ -63,7 +63,7 @@ def main():
     if choice == "Home":
         html_temp_home1 = """<div style="background-color:#6D7B8D;padding:10px">
                                             <h4 style="color:white;text-align:center;">
-                                            Face Emotion detection application using OpenCV, Custom CNN model and Streamlit.</h4>
+                                       
                                             </div>
                                             </br>"""
         st.markdown(html_temp_home1, unsafe_allow_html=True)
