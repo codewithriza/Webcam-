@@ -118,7 +118,7 @@ Email: codewithriza@gmail.com
 
         html_temp4 = """
                              		<div style="background-color:#98AFC7;padding:10px">
-                             		<h4 style="color:white;text-align:center;">This Application is developed by Riza Mohamed using Streamlit Framework, Opencv, Tensorflow and Keras library for demonstration purpose. If you're on LinkedIn and want to connect, just click on the link in sidebar and shoot me a request. If you have any suggestion or wnat to comment just write a mail at codewithriza@gmail.com. </h4>
+                             		<h4 style="color:white;text-align:center;">This Application is developed by Riza Mohamed using Streamlit Framework. If you have any suggestion or want to comment just write a mail at codewithriza@gmail.com. </h4>
                              		<h4 style="color:white;text-align:center;">Thanks for Visiting</h4>
                              		</div>
                              		<br></br>
